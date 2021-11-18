@@ -1,0 +1,20 @@
+{
+  "name": "bos-altyapi",
+  "version": "0.0.1",
+  "description": "MZR Code Tarafından Açılmıştır",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Boş Altyapı",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^3.1.0",
+    "os": "^0.1.2",
+    "quick.db": "^7.1.3"
+  }
+}
